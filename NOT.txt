@@ -1,0 +1,24 @@
+
+	Sayın Hocam,
+	
+	Uygulama konusu itibari ile (müzik çalar) basit gibi gözükebilir ancak 
+	kopyalanıp yapıştırılan yapay zeka kodlarındansa herşeyiyle uğraşıp kendimi
+	pişirebileceğim bir uygulama olmasını tercih ettim. Uygulamanın şuanki
+	versiyonunda 4426 satır kod bulunuyor. Bu uygulamayı sürekli değiştirdim ve 
+	baştan yaptım. Zamanım olsa bir kere daha siler herşeyi baştan yapardım. Çünkü
+	gerçekten de zevkli ve beni geliştiriyor.
+	 
+	Eklenecek geliştirelecek yönleri de mevcut ama dedğim gibi zamanım yok ve tek 
+	uğraşım bu proje değil. Bu projeden farklı bir tane Yazılım Gereksinim Analizi,
+	bir tane de Teknofest projem var. 
+	
+	Whatsapp gruplarındaki bilgi kirliliği neticesinde projenin bitiş tarihi ve sunum
+	yöntemi hakkında yeterli bilgiye sahip değildim. Bu yüzden video şeklinde sunum
+	göndermek istedim. Sürç-i lisan ettiysem affola.
+	
+	Değerlendirmenizde bahsettiğim hususları da göz önüne almanızı temenni ederim.
+	Bu proje görevini verip de gelişimimize katkıda bulunduğunuz için de teşekkür ederim.
+	
+	Esenlikler.
+	
+
