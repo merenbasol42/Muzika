@@ -1,0 +1,41 @@
+{
+    "header":
+    {
+        "title": "Düzenleme Sayfası",
+        
+        "create_inp": "Oluşturmak istediğiniz oynatma listesine bir isim verin",
+        "create_inp_title": "Girdi!",
+
+        "pl_combox": 
+        {
+            "default_text": "Oynatma listesi seçili değil",
+            "nothing_text": "Hiç oynatma listesi yok :("
+        }
+    },
+
+    "table":
+    {
+        "song_column": "Şarkı Yolu"
+    },
+
+    "control":
+    {
+        "choose_rb": "seçim modu",
+        "queue_rb": "sıra modu",
+
+        "add_button": "ekle",
+        "utube_button": "utube içe aktar",
+        "remove_button": "kaldır",
+
+        "add_inp": "Açılır metin kutusundan hedef seçinizi",
+        "add_inp_title": "Girdi!",
+
+        "utube_inp_pl": "Oynatma listesinin adı",
+        "utube_inp_url": "Youtube listenin URL'si",
+        "utube_inp_title": "Utube Liste İçe Aktarma",
+        "utube_inp_button": "Tamam",
+
+        "choice_dir": "klasörden",
+        "choice_file": "dosyadan"
+    }
+}

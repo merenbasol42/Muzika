@@ -1,0 +1,17 @@
+{
+    "title": "Download Proccess Window",
+    "info": "Your list is downloading please be patient",
+    "finished": "Downloading is done",
+    "downloading": [
+        "Downloading", 
+        "as done", 
+        "remain"
+    ],
+    
+    "error": 
+    {
+        "download": "Bağlantı hatası internet bağlantısı iyi değil",
+        "success": "Tüm indirmeler başarı ile gerçekleştirildi",
+        "input": "URL bağlantısının doğru olduğundan emin misiniz?"
+    }
+}

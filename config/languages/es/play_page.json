@@ -1,0 +1,33 @@
+{
+    "header":
+    {
+        "title": "Oynatma Sayfası",
+        "pl_combox": 
+        {
+            "default_text": "Oynatma listesi seçili değil",
+            "nothing_text": "Hiç oynatma listesi yok :("
+        }
+    },
+
+    "table":
+    {
+        "song_column": "Şarkı İsmi"
+    },
+
+    "trackbar":
+    {
+        "song_pos": "0:00",
+        "song_length": "0:00" 
+    },
+
+    "vol_slider":
+    {
+        "volume": "düzey"
+    },
+
+    "control":
+    {
+        "mode_button": "mod",
+        "load_button": "yükle"
+    }
+}

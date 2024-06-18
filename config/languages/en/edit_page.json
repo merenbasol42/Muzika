@@ -1,0 +1,41 @@
+{
+    "header":
+    {
+        "title": "Edit Page",
+        
+        "create_inp": "Name the playlist you want to create",
+        "create_inp_title": "Input!",
+
+        "pl_combox": 
+        {
+            "default_text": "Playlist is not selected",
+            "nothing_text": "There is nothing about playlist :("
+        }
+    },
+
+    "table":
+    {
+        "song_column": "Song Path"
+    },
+
+    "control":
+    {
+        "choose_rb": "choose mode",
+        "queue_rb": "queue mode",
+
+        "add_button": "add",
+        "utube_button": "utube import",
+        "remove_button": "remove",
+
+        "add_inp": "Choose target from textbox",
+        "add_inp_title": "Input!",
+
+        "utube_inp_pl": "Playlist name",
+        "utube_inp_url": "Utube list URL",
+        "utube_inp_title": "Utube List import",
+        "utube_inp_button": "OK",
+        
+        "choice_dir": "From directory",
+        "choice_file": "From file"
+    }
+}

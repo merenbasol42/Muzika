@@ -1,0 +1,21 @@
+{
+    "go_back_button": "geri dön",
+
+    "help":
+    {
+        "button": "Yardım",
+        "content": "Genel\nUygulama iki ana sayfadan oluşmaktadır bunlar: Oynatma Sayfası ve Düzenleme Sayfası.\n\nDüzenleme Sayfası\nOynatma listeleri oluşturma ve silme, bir oynatma listesine; şarkı ekleme, çıkarma ve sıra düzenlme işlevlerini sağlar.\n\nOynatma Sayfası\n seçilen oynatma listesindeki şarkıların, seçilen çalma moduna göre oynatılmasını sağlar. Mevzu bahis çalma modları 4 adettir bunlar: Sıra, Döngü Liste, Döngü Şarkı ve Karıştır. Çalma modunu ilgili butondan değiştirebilirsiniz."
+    },
+    
+    "credits":
+    {
+        "button": "Hakkında",
+        "content": "Bu uygulama Mustafa Eren BAŞOL tarafından IPT-202 dersi kapsamınca yapılmıştır"
+    },
+
+    "settings":
+    {
+        "button": "Ayarlar",
+        "lang_lbl": "Seçmek istediğiniz dili aşağıda bulunan açılır kutudan seçebilirsiniz"
+    }
+}

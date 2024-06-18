@@ -1,0 +1,33 @@
+{
+    "header":
+    {
+        "title": "Play Page",
+        "pl_combox": 
+        {
+            "default_text": "Playlist is not selected",
+            "nothing_text": "There is nothing about playlist :("
+        }
+    },
+
+    "table":
+    {
+        "song_column": "Song Name"
+    },
+
+    "trackbar":
+    {
+        "song_pos": "0:00",
+        "song_length": "0:00" 
+    },
+
+    "vol_slider":
+    {
+        "volume": "volume"
+    },
+
+    "control":
+    {
+        "mode_button": "mode",
+        "load_button": "load"
+    }
+}

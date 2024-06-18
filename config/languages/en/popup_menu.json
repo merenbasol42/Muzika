@@ -1,0 +1,21 @@
+{
+    "go_back_button": "go back",
+
+    "help":
+    {
+        "button": "Help",
+        "content": "General\nblab la b lablal balalb albalb blablaabl"
+    },
+    
+    "credits":
+    {
+        "button": "Credits",
+        "content": "This app created by Mustafa Eren BAŞOL"
+    },
+
+    "settings":
+    {
+        "button": "Settings",
+        "lang_lbl": "Choose a language you want, from combobox below"
+    }
+}

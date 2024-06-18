@@ -1,0 +1,4 @@
+pygame==2.5.2
+yt-dlp==2024.5.27
+mutagen==1.47.0
+customtkinter==5.2.2

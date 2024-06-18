@@ -1,0 +1,17 @@
+{
+    "title": "İndirme Süreç Penceresi",
+    "info": "Listeniz indiriliyor lütfen sabırla bekleyiniz",
+    "finished": "İndirme tamamlandı",
+    "downloading": [
+        "İndiriliyor", 
+        "tamamlandı", 
+        "kaldı"
+    ],
+
+    "error": 
+    {
+        "download": "Bağlantı hatası internet bağlantısı iyi değil",
+        "success": "Tüm indirmeler başarı ile gerçekleştirildi",
+        "input": "URL bağlantısının doğru olduğundan emin misiniz?"
+    }
+}
